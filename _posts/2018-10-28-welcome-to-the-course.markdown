@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Welcome to the course"
-date:   2018-10-28 21:24:20 -0400
+# date:   2018-10-28 21:24:20 -0400
 categories: jekyll update
+permalink: /welcome-to-the-course
 ---
 
 This post provides an overview of the topics that will be covered in each session. 
@@ -71,7 +72,7 @@ and maintainer experience.
 
 Finally we'll make packages of our own (if anyone has code ready to be packaged).  
 
-## Session 5: Testing you code
+## Session 5: Testing your code
 ### Jane Adams
 Scientists are always hearing that they should be testing their code, 
 but rarely do they hear what that would actually look like. In this session, 
