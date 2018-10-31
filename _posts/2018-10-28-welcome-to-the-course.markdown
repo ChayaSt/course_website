@@ -15,11 +15,24 @@ The following topics will be covered:
 -	Introduction to Git and GitHub; explain the difference between the two
 -	Introduce GitHub website; review setting and options on GitHub Account
 -	Create a repo on GitHub website
--	Set up a repo on GItHub and invite collaborators
+-	Set up a repo on GitHub and invite collaborators
 -	Fork and clone user or organization repo
 -	Mark changes and track them using git
--	Use branches on GItHub (*time permitting)
+-	Use branches on GitHub (*time permitting)
 -	Undo changes – revert commits (*time permitting)
+
+### Preparation
+1.  Ensure Git is installed.
+2.  Save your GitHub user ID and password somewhere that is easy to reference.
+3.  Complete this brief pre-course [preparation list](https://goo.gl/forms/yuLKS1shJBIQlJrE3)
+
+
+### Workshop Info
+- GH Repository:  [git-intro-workshop](https://github.com/reshamas/git-intro-workshop)
+  - "Star" it!
+
+
+Twitter:  [@reshamas](https://twitter.com/reshamas)
 
 ## Session 2: Data Management 
 ### April Clyburne-Sherin
