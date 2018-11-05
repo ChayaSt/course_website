@@ -3,7 +3,6 @@
 ### Contact information
 Presenter:  April Clyburne-Sherin  
 Email:   april@codeocean.com 
-
 Slidedeck: [MSK Reproducible Data Management Slidedeck](https://docs.google.com/presentation/d/19RZIgZ3ahPQtR2527QZIC1D05SCWkahikeqV6oGp6vw/edit?usp=sharing)
 
 ## Links to the recommended resources
