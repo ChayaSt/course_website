@@ -1,4 +1,8 @@
-# Class materials
+# Session materials
+
+#### Contact Info
+Presenter:  April Clyburne-Sherin  
+Email:   april@codeocean.com 
 
 ## Links to the recommended resources
 [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510 "Good enough practices in scientific computing."). Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, et al. (2017) Good enough practices in scientific computing. PLOS Computational Biology 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510
@@ -8,6 +12,13 @@
 [The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences](https://www.gitbook.com/book/bids/the-practice-of-reproducible-research/details "The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences."). Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2018). Oakland, CA: University of California Press. https://www.gitbook.com/book/bids/the-practice-of-reproducible-research/details
 
 [Jupyter Notebooks and reproducible data science](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html). Woodbridge M, Sanz D, Mietchen D, & Mounce R (2017). 
+
+---
+### Installations & Prerequisites
+* GitHub account is recommended.
+* No installations or pre-configurations are necessary.
+
+## Session description
 
 ### Organization
 
