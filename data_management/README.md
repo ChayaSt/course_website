@@ -1,8 +1,9 @@
 # Session materials
 
-#### Contact Info
+### Contact information
 Presenter:  April Clyburne-Sherin  
 Email:   april@codeocean.com 
+
 Slidedeck: [MSK Reproducible Data Management Slidedeck](https://docs.google.com/presentation/d/19RZIgZ3ahPQtR2527QZIC1D05SCWkahikeqV6oGp6vw/edit?usp=sharing)
 
 ## Links to the recommended resources
@@ -17,7 +18,7 @@ Slidedeck: [MSK Reproducible Data Management Slidedeck](https://docs.google.com/
 ---
 ### Installations & Prerequisites
 * GitHub account is recommended.
-* No installations or pre-configurations are necessary.
+* No installations are necessary.
 
 ## Session description
 
