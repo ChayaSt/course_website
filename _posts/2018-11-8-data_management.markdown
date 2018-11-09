@@ -7,7 +7,7 @@ permalink: /data_management
 ---
 ## Session Materials
 
-[Class examples and Reproducibility resources](https://github.com/ChayaSt/course_website/tree/gh-pages/data_management)
+[Class examples and Reproducibility resources](https://github.com/ChayaSt/course_website/tree/gh-pages/_posts/data_management)
 
 
 
