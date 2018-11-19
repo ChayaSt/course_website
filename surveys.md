@@ -10,8 +10,10 @@ us improve the course for future iterations.
 
 Below are links to Google forms for each session. 
 
-[Version Control and GitHub](https://docs.google.com/forms/d/1R7Zou7ClTFqAYyMaiN0p7u_V52ezjd-1MrxnzL-r7CM/edit)
+[Version Control and GitHub](https://docs.google.com/forms/d/e/1FAIpQLScwaTVbdmmDWcSilVWa413gPc0qubte087sFi72nM-kaZuz3g/viewform)
 
-[Data Management](https://docs.google.com/forms/d/16VBbwjTiY3dOYYRcgsF8nbiAzq9BtF_8A46WQX2s3OQ/edit)
+[Data Management](https://docs.google.com/forms/d/e/1FAIpQLScCagpO-a8uJvnOx7pnPRakEaeaoN0Ln-VjtRgfRtbgUrR9CA/viewform)
 
-[Clean Code and Documentation](https://docs.google.com/forms/d/1pjjQuJsNKaY1wPJ8MvLAys_VZeHs3BMoDhz0g2OZKeQ/edit)
+[Clean Code and Documentation](https://docs.google.com/forms/d/e/1FAIpQLSfD7b1cwAxZx907p1L9tM-Ezo5loC4YVN30YgPbU3TaTNXHpA/viewform)
+
+[Environements and Package Management](https://docs.google.com/forms/d/e/1FAIpQLSendGajntj6T7qyIAno1kaPFllD0AGK3Pp26jS-CMTWwAhW_A/viewform)
