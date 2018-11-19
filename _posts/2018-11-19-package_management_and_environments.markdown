@@ -17,3 +17,5 @@ Monday, Nov 19.
 3.  Make an [Anaconda account](https://anaconda.org) (for uploading packages)
 4.  Make sure conda is installed (via [Anaconda](https://www.anaconda.com/download/) or [Miniconda](https://conda.io/miniconda.html))
 
+## Slides
+Follow this [link](https://drive.google.com/file/d/13cMlangB-wuk4uOxuCeWXxFNEXpjvvYD/view) for class slides
