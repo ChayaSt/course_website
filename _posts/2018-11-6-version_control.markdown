@@ -21,3 +21,7 @@ Thursday, Nov 8.
 The material for this session is in the following GitHub repository:  
 - GH Repository:  [git-intro-workshop](https://github.com/reshamas/git-intro-workshop)
   - "Star" it!
+
+### Recording 
+
+The video of this session is [here](https://www.youtube.com/watch?v=Q-cS5FQ_Sb4&list=PLME9VJQhE-htSuTzZcfum1gFhMeohxOMu&index=1)

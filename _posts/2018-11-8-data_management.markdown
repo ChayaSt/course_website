@@ -120,3 +120,5 @@ Slidedeck: [MSK Reproducible Data Management Slidedeck](https://docs.google.com/
     * Obtain a DOI for your repository and use this link throughout your article.
     * Example: Github -> Binder -> Zenodo -> DOI linked in article
 
+### Recording
+The recording of this session is [here](https://www.youtube.com/watch?v=tRa2Wjf9yss&list=PLME9VJQhE-htSuTzZcfum1gFhMeohxOMu&index=4)

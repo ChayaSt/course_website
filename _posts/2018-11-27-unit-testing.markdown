@@ -21,3 +21,7 @@ Please bring your laptop and charger.
 
 ### Materials
 The written class material can be found [here](https://github.com/thejunglejane/unit-testing-seminar). This seminar will be very interactive, and we'll be adding to this material during the seminar. Feel free to fork and/or clone this repository to follow along on your laptop.
+
+### Recording
+
+The video for this session is [here](https://www.youtube.com/watch?v=ahb7fg0tsfE&list=PLME9VJQhE-htSuTzZcfum1gFhMeohxOMu&index=5)

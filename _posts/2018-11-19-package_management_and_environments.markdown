@@ -19,3 +19,7 @@ Monday, Nov 19.
 
 ## Slides
 Follow this [link](https://drive.google.com/file/d/13cMlangB-wuk4uOxuCeWXxFNEXpjvvYD/view) for class slides
+
+### Recording
+
+The vidoe of this session is [here](https://www.youtube.com/watch?v=1MWz2QslFMw&list=PLME9VJQhE-htSuTzZcfum1gFhMeohxOMu&index=2)
